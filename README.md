@@ -18,7 +18,7 @@
 
         </ol>
         <h2>Screenshots</h2>
-        <img src="screenshot1.png" alt="Screenshot 1">
+        <img src="C:\Users\hp\AndroidStudioProjects\Shoppi\app\src\main\res\drawable\sc1.png" alt="Screenshot 1">
         <img src="screenshot2.png" alt="Screenshot 2">
         <!-- Add more screenshots as needed -->
         <h2>Download</h2>
