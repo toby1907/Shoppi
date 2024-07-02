@@ -18,7 +18,7 @@
 
         </ol>
         <h2>Screenshots</h2>
-        <img src=![Alt text]("https://github.com/toby1907/Shoppi/blob/main/app/src/main/res/drawable/sc1.jpg")> 
+        <img src=!Alt text("https://github.com/toby1907/Shoppi/blob/main/app/src/main/res/drawable/sc1.jpg")> 
         <img src="screenshot2.png" alt="Screenshot 2">
         <!-- Add more screenshots as needed -->
         <h2>Download</h2>
