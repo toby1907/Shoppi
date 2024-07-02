@@ -23,7 +23,7 @@
         <!-- Add more screenshots as needed -->
         <h2>Download</h2>
         <p>You can download the app from the following link:</p>
-        <a href="https://your-app-download-link.com">Download My Awesome App</a>
+        <a href="https://drive.google.com/file/d/1tA9cvmuIKgRkIHUhgRNXbgsKj9Xuz7UG/view?usp=drive_link">Download Shoppi App</a>
     </div>
 </body>
 </html>
